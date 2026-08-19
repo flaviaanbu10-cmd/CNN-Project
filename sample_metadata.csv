@@ -1,0 +1,27 @@
+Sample_ID,Genotype,Group_Label,Mouse_ID,Treatment,Short_ID
+GSM8387699,KO,KO_Untreated,id 102,None,KO102
+GSM8387700,KO,KO_Treated,id 102,Trehalose,KO102_TR
+GSM8387701,KO,KO_Untreated,id 10,None,KO10
+GSM8387706,KO,KO_Treated,id 3__8,Trehalose ,KO3_8_TR
+GSM8387702,KO,KO_Treated,id 10,Trehalose,KO10_TR
+GSM8387705,KO,KO_Untreated,id 3__8,None,KO3_8
+GSM8387703,KO,KO_Untreated,id 2,None,KO2
+GSM8387704,KO,KO_Treated,id 2,Trehalose ,KO2_TR
+GSM8387707,KO,KO_Untreated,id 4,None,KO4
+GSM8387712,WT,WT_Treated,id 10 ,Trehalose,WT10_TR
+GSM8387713,WT,WT_Untreated ,id 11__8,None,WT11_8
+GSM8387717,WT,WT_Untreated ,id 1,None,WT1
+GSM8387710,KO,KO_Treated,id 8,Trehalose ,KO8_TR
+GSM8387714,WT,WT_Treated,id 11__8,Trehalose ,WT11_8_TR
+GSM8387709,KO,KO_Untreated,id 8,None,KO8
+GSM8387716,WT,WT_Treated,id 17,Trehalose ,WT17_TR
+GSM8387708,KO,KO_Treated,id 4,Trehalose,KO4_TR
+GSM8387711,WT,WT_Untreated ,id 10 ,None,WT10
+GSM8387715,WT,WT_Untreated ,id 17,None,WT17
+GSM8387718,WT,WT_Treated,id 1,Trehalose ,WT1_TR
+GSM8387724,WT,WT_Treated,id 8,Trehalose ,WT8_TR
+GSM8387719,WT,WT_Untreated ,id 2,None,WT2
+GSM8387723,WT,WT_Untreated ,id 8,None,WT8
+GSM8387721,WT,WT_Untreated ,id 4,None,WT4
+GSM8387720,WT,WT_Treated,id 2,Trehalose,WT2_TR
+GSM8387722,WT,WT_Treated,id 4,Trehalose,WT4_TR
